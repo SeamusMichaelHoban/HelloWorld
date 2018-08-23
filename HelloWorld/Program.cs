@@ -215,6 +215,7 @@ namespace HelloWorld
             //while (action != "exit")
             //{
 
+
             //    Console.WriteLine("What is your rank soldier?");
             //    string rank = Console.ReadLine();
 
@@ -266,6 +267,7 @@ namespace HelloWorld
             //} while (action != "exit");
 
             //Part fourteen for-loop examples
+
             //for (int i=0; i < foodAmount.Length; i++)
             //{
             //    Console.WriteLine(i);
